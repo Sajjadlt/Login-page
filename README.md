@@ -10,8 +10,8 @@ Forgot password
 ! This email is used to send verification code!
 
 Creating a new account:
-  First, you enter an email that has not been registered before 
-  password
+  \nFirst, you enter an email that has not been registered before
+  \npassword
   Then you enter your password to check your password again
   Then enter the verification code that was sent to your email (click the button to send)
 
