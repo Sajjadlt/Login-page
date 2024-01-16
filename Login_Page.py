@@ -77,6 +77,8 @@ class LoginPage(CTk):
 
         if self.auth_system.login(username, password):
             messagebox.showinfo('Login Successful', f'Welcome, {username}!')
+            #Run your program here!
+        
         else:
             messagebox.showerror('Login Failed', 'Invalid username or password')
 
