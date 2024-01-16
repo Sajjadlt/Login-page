@@ -10,7 +10,7 @@ Forgot password
 ! This email is used to send verification code!
 
 Creating a new account:
-First, you enter an email that has not been registered before
+First, you enter an email that has not been registered before 
 password
 Then you enter your password to check your password again
 Then enter the verification code that was sent to your email (click the button to send)
